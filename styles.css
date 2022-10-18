@@ -1,0 +1,55 @@
+.heading{
+    font-family: 'Rouge Script', cursive;
+    font-size: 10vh;
+    color: #749F82;
+}
+.upar{
+    border: 0;
+}
+
+*{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFF9CA;
+}
+
+table{
+    border-style: solid;
+    border-color: #B2A4FF;
+    border-width: 5px;
+    border-radius: 5%;
+    table-layout  : "fixed";
+   
+    
+}
+
+.table-data{
+    border-radius: 40%;
+    border: 1;
+    border-width: 5px;
+    border-color: #B2A4FF;
+    font-size: 30px;
+   
+
+}
+#display{
+    border: 0;
+    font-size: 35px;
+    text-align: right;
+    padding-right: 10px;
+    
+}
+.equals{
+    background-color: #FFDEB4;
+}
+.num{
+    background-color: #FAF7F0;
+}
+
+.bg-blur{
+    background-color: grey;
+    
+    font-size: 40px;
+
+}
