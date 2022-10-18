@@ -2,9 +2,7 @@ var display=document.getElementById("display");
 
 
 // main logic
-function addToArea(params) {
-    
-}
+
 var buttons =document.getElementsByClassName("num");
 for(let i=0; i<buttons.length;i++){
     buttons[i].addEventListener("click" , function(e) {
